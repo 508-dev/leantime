@@ -75,7 +75,7 @@
     "shepherd.js": "^11.2.0",
     "tippy.js": "^6.3.7",
     "tiptap-extension-font-size": "^1.2.0",
-    "uppy": "^3.25.3"
+    "uppy": "^6.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.22.15",
